@@ -1,14 +1,20 @@
 {
-  "name": "r3f-vite-starter",
-  "description": "A starter template for React Three Fiber with Vite",
+  "name": "xbox-elite-wireless-controller-series-2",
+  "description": "3D model of the Xbox Elite Wireless Controller Series 2",
   "keywords": [
     "react",
     "three",
-    "fiber",
-    "drei",
+    "three.js",
+    "react-three-fiber",
+    "react-three-drei",
     "vite",
-    "starter",
-    "template"
+    "vitest",
+    "blender",
+    "xbox",
+    "3d",
+    "webgl",
+    "xbox-wireless-controller",
+    "xbox-elite-wireless-controller-series-2"
   ],
   "private": true,
   "version": "0.0.0",

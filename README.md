@@ -1,43 +1,62 @@
-# React Three Fiber Vite Starter Template
+# Xbox Elite Wireless Controller Series 2
 
-![Product Screenshot](/public/screenshot.png)
+# Xbox Wireless Controller
+
+![Hero Image](./docs/assets/img/screenshot.png)
+
+<div align="center">
+   <img src="./docs/assets/img/screenshot1.png" width="32%">
+   <img src="./docs/assets/img/screenshot2.png" width="32%">
+   <img src="./docs/assets/img/screenshot3.png" width="32%">
+</div>
+
+---
+
+<div align="center">
+  <p align="center">
+    3D model of the Xbox Wireless Controller made with Blender and rendered with React Three Fiber.
+    <br />
+    <a href="https://r3-f-xbox-wireless-controller.vercel.app/">View Demo</a>
+    &middot;
+    <a href="https://github.com/jeffrey-omega/R3F-Xbox-Wireless-Controller/issues/new?labels=bug">Report Bug</a>
+    &middot;
+    <a href="https://github.com/jeffrey-omega/R3F-Xbox-Wireless-Controller/issues/new?labels=enhancement">Request Feature</a>
+  </p>
+</div>
 
 ### Built With
 
-- [pnpm](https://pnpm.io/)
-- [React](https://reactjs.org)
-- [Nodejs](https://nodejs.org/)
-- [Threejs](https://threejs.org/)
-- [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
-- [Drei](https://github.com/pmndrs/drei)
-- [Vite](https://vitejs.dev/)
-- [typescript](https://www.typescriptlang.org/)
-- [eslint](https://eslint.org/)
+- [Blender](https://www.blender.org/)
+- [R3F-Vite-Starter-Template](https://github.com/jeffrey-omega/R3F-Vite-Starter-Template)
 
-### Installation
+## Getting Started
+
+### Prerequisites
 
 > [!TIP]
-> if you don't use pnpm, you can replace `pnpm` with `npm` or `yarn` in the following commands.
+> This project uses [pnpm](https://pnpm.io/) as package manager\
+> If you don't use pnpm, you can replace `pnpm` with `npm` or `yarn` in the following commands.
+
+### Installation
 
 1. Clone the repo
 
    ```sh
-   git clone url
+   git clone https://github.com/jeffrey-omega/R3F-Xbox-Wireless-Controller.git
    ```
 
 2. Navigate to the project directory
 
    ```sh
-    cd project-directory
+    cd R3F-Xbox-Wireless-Controller
    ```
 
 3. Install pnpm packages
-
    ```sh
     pnpm install
    ```
 
-### Usage
+### Run Locally
 
 1. Start the development server
    ```sh
@@ -47,3 +66,16 @@
    ```sh
     pnpm build
    ```
+
+### :test_tube: Running Tests
+
+To run tests, run the following command
+
+```bash
+  pnpm test
+```
+
+### Roadmap
+
+> [!WARNING]
+> This project is still in development and may not work as expected.
