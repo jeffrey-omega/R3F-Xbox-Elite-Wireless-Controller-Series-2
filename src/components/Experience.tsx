@@ -1,11 +1,12 @@
-import { OrbitControls } from "@react-three/drei";
-import { Atom } from "./Atom";
+import { Environment, OrbitControls } from "@react-three/drei";
+import { XboxEliteWirelessControllerSeries2 } from "./XboxEliteWirelessControllerSeries2";
 
 export const Experience = () => {
   return (
     <>
       <OrbitControls enableZoom={true} enablePan={false} />
-      <Atom />
+      <Environment preset="studio" />
+      <XboxEliteWirelessControllerSeries2 />
     </>
   );
 };
