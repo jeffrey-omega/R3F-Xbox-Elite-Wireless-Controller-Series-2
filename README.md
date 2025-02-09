@@ -1,7 +1,5 @@
 # Xbox Elite Wireless Controller Series 2
 
-# Xbox Wireless Controller
-
 ![Hero Image](./docs/assets/img/screenshot.png)
 
 <div align="center">
