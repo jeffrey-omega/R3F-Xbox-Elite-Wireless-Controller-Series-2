@@ -1,7 +1,5 @@
 # Xbox Elite Wireless Controller Series 2
 
-# Xbox Wireless Controller
-
 ![Hero Image](./docs/assets/img/screenshot.png)
 
 <div align="center">
@@ -16,11 +14,11 @@
   <p align="center">
     3D model of the Xbox Wireless Controller made with Blender and rendered with React Three Fiber.
     <br />
-    <a href="https://r3-f-xbox-wireless-controller.vercel.app/">View Demo</a>
+    <a href="https://rxbox-wireless-controller.vercel.app/">View Demo</a>
     &middot;
-    <a href="https://github.com/jeffrey-omega/R3F-Xbox-Wireless-Controller/issues/new?labels=bug">Report Bug</a>
+    <a href="https://github.com/jeffrey-omega/R3F-Xbox-Elite-Wireless-Controller-Series-2/issues/new?labels=bug">Report Bug</a>
     &middot;
-    <a href="https://github.com/jeffrey-omega/R3F-Xbox-Wireless-Controller/issues/new?labels=enhancement">Request Feature</a>
+    <a href="https://github.com/jeffrey-omega/R3F-Xbox-Elite-Wireless-Controller-Series-2/issues/new?labels=enhancement">Request Feature</a>
   </p>
 </div>
 
@@ -42,7 +40,7 @@
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/jeffrey-omega/R3F-Xbox-Wireless-Controller.git
+   git clone https://github.com/jeffrey-omega/R3F-Xbox-Elite-Wireless-Controller-Series-2.git
    ```
 
 2. Navigate to the project directory
