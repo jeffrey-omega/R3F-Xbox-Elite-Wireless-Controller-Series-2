@@ -14,7 +14,7 @@
   <p align="center">
     3D model of the Xbox Wireless Controller made with Blender and rendered with React Three Fiber.
     <br />
-    <a href="https://rxbox-wireless-controller.vercel.app/">View Demo</a>
+    <a href="https://r3f-xbox-wireless-controller.vercel.app/">View Demo</a>
     &middot;
     <a href="https://github.com/jeffrey-omega/R3F-Xbox-Elite-Wireless-Controller-Series-2/issues/new?labels=bug">Report Bug</a>
     &middot;
