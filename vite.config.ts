@@ -15,7 +15,7 @@ import pkg from "./package.json";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: process.env.ENV === "github-pages" ? `/${pkg.name}/` : "/",
+  base: process.env.NODE_ENV === "production" ? `/${pkg.name}/` : "/",
   plugins: [
     react(),
     glsl({
