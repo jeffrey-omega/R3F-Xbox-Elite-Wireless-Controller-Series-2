@@ -14,7 +14,7 @@ import { defineConfig } from "vitest/config";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/xbox-elite-wireless-controller-series-2/",
+  base: "/r3f-xbox-elite-wireless-controller-series-2/",
   plugins: [
     react(),
     glsl({
