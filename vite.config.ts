@@ -1,7 +1,7 @@
 import react from "@vitejs/plugin-react";
 import path from "path";
+import { defineConfig } from "vite";
 import glsl from "vite-plugin-glsl";
-import { defineConfig } from "vitest/config";
 
 /**
  * optional: import package.json to get the name of the package
@@ -27,7 +27,7 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  optimizeDeps: {
+  /*   optimizeDeps: {
     exclude: ["@playwright/test"],
   },
   test: {
@@ -37,5 +37,5 @@ export default defineConfig({
       headless: true,
       instances: [{ browser: "chromium" }],
     },
-  },
+  }, */
 });
